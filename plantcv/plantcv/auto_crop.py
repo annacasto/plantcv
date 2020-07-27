@@ -9,7 +9,7 @@ from plantcv.plantcv import params
 from plantcv.plantcv import fatal_error
 
 
-def auto_crop_edit(img, obj, padding_t=0, padding_b=0, padding_l=0, padding_r=0 color='black'):
+def auto_crop_edit(img, obj, padding_t=0, padding_b=0, padding_l=0, padding_r=0, color='black'):
     """Resize image.
 
     Inputs:
